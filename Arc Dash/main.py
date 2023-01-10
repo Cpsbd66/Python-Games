@@ -1,7 +1,3 @@
-# Arc Dash
-
-# Author : Prajjwal Pathak (pyguru)
-# Date : Thursday, 22 July, 2021
 
 import random
 import pygame
